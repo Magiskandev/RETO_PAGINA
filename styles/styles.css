@@ -7,13 +7,33 @@
     opacity: 0.9;
 }
 
-/* .main-img-container {
-    height: 924px;
-} */
+.ligas {
+    width: 40%;
+}
+
+
+.main-img-container {
+    /* height: 924px; */
+    position: relative;
+}
 
 .img {
     width: 278px;
     height: 278px;
+}
+
+.super {
+    position: absolute;
+    z-index: 10;
+    font-size: 30px;
+    background-color: white;
+    bottom: 0;
+    opacity: 0.6;
+    left: 10%;
+    width: 45%;
+    height: 90px;
+    padding: 20px;
+    line-height: 30px;
 }
 
 .str {
@@ -26,4 +46,10 @@ i {
 
 .contact {
     height: 150px;
+}
+
+.a {
+    text-decoration: none;
+    color: black;
+
 }
