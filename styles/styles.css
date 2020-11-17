@@ -1,0 +1,29 @@
+* {
+    /* border: 1px solid tomato; */
+}
+
+.testa {
+    height: 60px;
+    opacity: 0.9;
+}
+
+/* .main-img-container {
+    height: 924px;
+} */
+
+.img {
+    width: 278px;
+    height: 278px;
+}
+
+.str {
+    background-color: lightgray;
+}
+
+i {
+    color: teal;
+}
+
+.contact {
+    height: 150px;
+}
